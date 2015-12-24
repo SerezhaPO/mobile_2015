@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add">Добавить дело.</string>
+    <string name="addlist">Добавить дело.</string>
+    <string name="enter">Ввод</string>
+    <string name="enterlist">Ввод</string>
+    <string name="enterexception">Ошибка ввода(</string>
+    <string name="app_name">prj_02</string>
+</resources>
